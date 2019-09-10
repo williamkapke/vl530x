@@ -1,0 +1,22 @@
+{
+  "name": "vl530x",
+  "version": "1.0.0",
+  "description": "A Node.js library for a vl530x device",
+  "main": "vl530.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamkapke/vl530x.git"
+  },
+  "author": "William Kapke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/williamkapke/vl530x/issues"
+  },
+  "homepage": "https://github.com/williamkapke/vl530x#readme",
+  "dependencies": {
+    "debug": "^4.1.1"
+  }
+}
